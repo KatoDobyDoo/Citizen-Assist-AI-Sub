@@ -1,0 +1,102 @@
+[
+  {
+    "codigo": "TRAB-01",
+    "tema": "Direitos Trabalhistas",
+    "pergunta": "Qual é o limite de jornada semanal na CLT e como funciona a discussão sobre a escala 5x2?",
+    "palavras_chave": ["escala", "5x2", "6x1", "jornada", "horas", "clt", "folga"],
+    "orientacao_resumida": "Pela regra atual da CLT e da Constituição, a jornada padrão é de até 8 horas diárias e 44 horas semanais (comum na escala 6x1). A transição para a escala 5x2 (5 dias de trabalho e 2 de folga) depende de acordo/convenção coletiva da categoria ou aprovação de alteração legislativa no Congresso.",
+    "orientacao_passos": "1) Verifique no seu contrato de trabalho e na convenção coletiva do seu sindicato qual é a carga horária semanal acordada; 2) Confira se há acordo de compensação ou banco de horas registrado; 3) Acompanhe os canais oficiais do Ministério do Trabalho e do Congresso Nacional para verificar mudanças vigentes na lei sobre a escala 5x2; 4) Em caso de horas extras além do limite permitido, registre o ponto e solicite o pagamento adicional.",
+    "fonte": "Ministério do Trabalho e Emprego (gov.br/trabalho) e Consolidação das Leis do Trabalho (CLT)",
+    "data_verificacao": "2026-11-20"
+  },
+  {
+    "codigo": "TRAB-02",
+    "tema": "Direitos Trabalhistas",
+    "pergunta": "Quem tem direito ao seguro-desemprego e como solicitar?",
+    "palavras_chave": ["seguro", "desemprego", "demissao", "sem justa causa", "parcelas", "solicitar"],
+    "orientacao_resumida": "Tem direito o trabalhador formal dispensado sem justa causa que cumpriu o tempo mínimo de trabalho exigido (12 meses na primeira solicitação, 9 na segunda e 6 a partir da terceira) e não possui outra fonte de renda suficiente.",
+    "orientacao_passos": "1) Reúna o Requerimento de Seguro-Desemprego entregue pelo empregador e o número do CPF; 2) Acesse o portal gov.br ou o aplicativo Carteira de Trabalho Digital entre o 7º e o 120º dia após a demissão; 3) Selecione a opção Benefícios > Seguro-Desemprego > Solicitar; 4) Confira os dados bancários para recebimento e acompanhe a liberação das parcelas.",
+    "fonte": "Portal Gov.br — Ministério do Trabalho e Emprego (gov.br/pt-br/servicos/solicitar-o-seguro-desemprego)",
+    "data_verificacao": "2026-11-20"
+  },
+  {
+    "codigo": "TRAB-03",
+    "tema": "Direitos Trabalhistas",
+    "pergunta": "Qual a diferença entre saque-rescisão e saque-aniversário do FGTS?",
+    "palavras_chave": ["fgts", "saque", "aniversario", "rescisao", "caixa", "saldo"],
+    "orientacao_resumida": "No saque-rescisão (padrão), o trabalhador saca o saldo total da conta do FGTS se for demitido sem justa causa. No saque-aniversário, retira-se uma parcela anual no mês de aniversário, mas em caso de demissão sem justa causa recebe-se apenas a multa rescisória de 40%, ficando o saldo retido.",
+    "orientacao_passos": "1) Baixe e acesse o aplicativo oficial FGTS da Caixa Econômica Federal com sua conta gov.br; 2) Consulte o saldo disponível e a modalidade ativa no menu Meu FGTS; 3) Caso deseje alterar a opção, lembre-se que o retorno do saque-aniversário para o saque-rescisão leva 25 meses para ter efeito; 4) Cadastre uma conta bancária de sua titularidade para transferência.",
+    "fonte": "Caixa Econômica Federal — Portal FGTS (fgts.caixa.gov.br)",
+    "data_verificacao": "2026-11-20"
+  },
+  {
+    "codigo": "TRAB-04",
+    "tema": "Direitos Trabalhistas",
+    "pergunta": "Quando o trabalhador tem direito a férias e qual o prazo de pagamento?",
+    "palavras_chave": ["ferias", "pagamento", "adicional", "terco", "descanso", "prazo"],
+    "orientacao_resumida": "Após cada período de 12 meses de trabalho (período aquisitivo), o empregado tem direito a 30 dias de férias remuneradas com acréscimo de 1/3 constitucional. O pagamento deve ser depositado até 2 dias antes do início do descanso.",
+    "orientacao_passos": "1) Confirme junto ao RH da empresa a data de início das férias, que deve ser avisada com pelo menos 30 dias de antecedência; 2) Verifique se houve divisão em até 3 períodos (sendo um deles de no mínimo 14 dias); 3) Confira o recibo de férias para validar o salário mais o adicional de 1/3; 4) Verifique o depósito em conta até 2 dias corridos antes da saída.",
+    "fonte": "Consolidação das Leis do Trabalho (CLT — Arts. 129 a 145) e Gov.br",
+    "data_verificacao": "2026-11-20"
+  },
+  {
+    "codigo": "TRAB-05",
+    "tema": "Direitos Trabalhistas",
+    "pergunta": "Quais são os requisitos para receber o abono salarial PIS/PASEP?",
+    "palavras_chave": ["pis", "pasep", "abono", "salarial", "calendario", "rais"],
+    "orientacao_resumida": "Recebe o abono salarial quem está cadastrado no PIS/PASEP há pelo menos 5 anos, trabalhou com carteira assinada por no mínimo 30 dias no ano-base, recebeu média mensal de até 2 salários mínimos e teve os dados informados corretamente pelo empregador na RAIS/eSocial.",
+    "orientacao_passos": "1) Acesse o aplicativo Carteira de Trabalho Digital com login gov.br; 2) Entre na aba Benefícios > Abono Salarial para checar se você está habilitado; 3) Verifique o valor proporcional aos meses trabalhados e a data de pagamento conforme o mês de nascimento; 4) Consulte o pagamento pelo app Caixa Tem (PIS) ou Banco do Brasil (PASEP).",
+    "fonte": "Ministério do Trabalho e Emprego — Abono Salarial (gov.br/trabalho)",
+    "data_verificacao": "2026-11-20"
+  },
+  {
+    "codigo": "CONS-01",
+    "tema": "Direitos do Consumidor",
+    "pergunta": "Como funciona o direito de arrependimento em compras feitas pela internet?",
+    "palavras_chave": ["arrependimento", "compra online", "devolucao", "prazo", "reembolso", "internet"],
+    "orientacao_resumida": "Pelo Artigo 49 do Código de Defesa do Consumidor, o cliente pode desistir de qualquer compra feita fora da loja física (internet, telefone ou catálogo) em até 7 dias corridos após o recebimento do produto, sem precisar justificar, recebendo 100% do valor pago, incluindo o frete.",
+    "orientacao_passos": "1) Registre o pedido de cancelamento/devolução nos canais oficiais da loja dentro de 7 dias corridos a contar da entrega; 2) Guarde o protocolo ou e-mail comprovando que a solicitação foi feita dentro do prazo; 3) Devolva o produto sem custos de frete reverso seguindo a etiqueta enviada pela empresa; 4) Acompanhe o estorno integral na fatura do cartão ou conta bancária.",
+    "fonte": "Código de Defesa do Consumidor (Lei nº 8.078/1990 — Art. 49) e Procon",
+    "data_verificacao": "2026-11-21"
+  },
+  {
+    "codigo": "CONS-02",
+    "tema": "Direitos do Consumidor",
+    "pergunta": "O que fazer quando uma empresa cobra um valor indevido na fatura?",
+    "palavras_chave": ["cobranca", "indevida", "fatura", "conta", "estorno", "dobro"],
+    "orientacao_resumida": "O consumidor que for cobrado por serviço não contratado ou valor errado tem direito à correção imediata da fatura. Caso já tenha pago a cobrança indevida, tem direito à devolução em dobro do que pagou em excesso, salvo engano justificável da empresa.",
+    "orientacao_passos": "1) Entre em contato com o SAC da empresa e anote o número de protocolo contestando o item cobrado; 2) Solicite a emissão de uma nova fatura corrigida antes do vencimento; 3) Se o valor já foi pago, exija o ressarcimento em dobro conforme o Art. 42 do CDC; 4) Caso a empresa não resolva, registre reclamação no portal Consumidor.gov.br ou no Procon.",
+    "fonte": "Secretaria Nacional do Consumidor — Consumidor.gov.br e CDC (Art. 42)",
+    "data_verificacao": "2026-11-21"
+  },
+  {
+    "codigo": "CONS-03",
+    "tema": "Direitos do Consumidor",
+    "pergunta": "Como cancelar serviços de telecomunicações (internet, celular ou TV) sem burocracia?",
+    "palavras_chave": ["cancelar", "internet", "celular", "operadora", "anatel", "fidelidade"],
+    "orientacao_resumida": "Pelas regras da Anatel, o consumidor pode cancelar serviços de internet, telefone ou TV a qualquer momento pelo site ou aplicativo da operadora, sem precisar falar com atendente. A multa de fidelidade só pode ser cobrada se houver benefício concedido e dentro do prazo máximo de 12 meses.",
+    "orientacao_passos": "1) Acesse a área do cliente no site ou aplicativo oficial da operadora; 2) Procure a opção de cancelamento automático e confirme o pedido (o efeito deve ser imediato ou em até 2 dias úteis); 3) Salve o comprovante com data, hora e número de protocolo; 4) Se houver dificuldade ou cobrança após o cancelamento, abra chamado no aplicativo Anatel Consumidor.",
+    "fonte": "Agência Nacional de Telecomunicações — Anatel (gov.br/anatel)",
+    "data_verificacao": "2026-11-21"
+  },
+  {
+    "codigo": "CONS-04",
+    "tema": "Direitos do Consumidor",
+    "pergunta": "Quem tem direito à Tarifa Social de Energia Elétrica (desconto na conta de luz)?",
+    "palavras_chave": ["tarifa social", "luz", "energia", "desconto", "cadunico", "conta"],
+    "orientacao_resumida": "Têm direito ao desconto na conta de luz famílias inscritas no Cadastro Único (CadÚnico) com renda mensal por pessoa de até meio salário mínimo, ou idosos/pessoas com deficiência que recebam o BPC. O desconto chega a até 65% conforme o consumo mensal.",
+    "orientacao_passos": "1) Mantenha os dados da família atualizados no CadÚnico junto ao CRAS do município; 2) Verifique se o titular da conta de luz faz parte da família cadastrada no CadÚnico ou BPC; 3) A concessão costuma ser automática pela distribuidora, mas pode ser solicitada nos canais da concessionária informando NIS e CPF; 4) Confira na fatura seguinte a indicação da subclasse Residencial Baixa Renda.",
+    "fonte": "Agência Nacional de Energia Elétrica — ANEEL (gov.br/aneel)",
+    "data_verificacao": "2026-11-21"
+  },
+  {
+    "codigo": "CONS-05",
+    "tema": "Direitos do Consumidor",
+    "pergunta": "Como bloquear ligações indesejadas de telemarketing e ofertas de bancos?",
+    "palavras_chave": ["telemarketing", "ligacoes", "bloquear", "nao me perturbe", "spam", "banco"],
+    "orientacao_resumida": "O cidadão pode cadastrar gratuitamente seu número de telefone fixo ou celular na plataforma nacional Não Me Perturbe para bloquear ligações de ofertas das principais operadoras de telecomunicações e instituições financeiras (empréstimo consignado). O bloqueio passa a valer em até 30 dias.",
+    "orientacao_passos": "1) Acesse o site oficial naomeperturbe.com.br ou o portal do Procon do seu estado; 2) Crie um cadastro gratuito com login e senha; 3) Informe os números de telefone que deseja bloquear e marque as empresas/setores; 4) Aguarde o prazo de 30 dias corridos e, se as ligações continuarem, registre uma denúncia na própria plataforma.",
+    "fonte": "Plataforma Não Me Perturbe / Anatel e Procon-SP",
+    "data_verificacao": "2026-11-21"
+  }
+]
